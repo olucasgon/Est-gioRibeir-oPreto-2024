@@ -6,7 +6,7 @@ public class teste4 {
 	
 		
 		
-		/*-Primeiro passo:
+		-Primeiro passo:
 			Ligaria o primeiro interruptor da esquerda para a direita ou de cima para baixo.
 			Após 30 segundos, desligaria este interruptor.
 		
