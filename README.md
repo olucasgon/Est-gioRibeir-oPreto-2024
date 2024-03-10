@@ -1,3 +1,4 @@
+<a href ="https://www.linkedin.com/in/olucasgon"> <img width="25" height="25" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> LinkedIn Lucas Rodrigues <img width="17" height="17" src="https://img.icons8.com/color/48/verified-badge.png" alt="verified-badge"/></a>
 ---
 <img width="25" height="25" src="https://img.icons8.com/fluency/48/test--v1.png" alt="test--v1"/> TESTE 1
 --
