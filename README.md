@@ -38,7 +38,7 @@
 
 <h3>- Explicação</h3>
 <p>Este código em Java, tem como objetivo verificar se o número fornecido pelo usuário pertence à sequência de Fibonacci. A sequência de Fibonacci é uma série de números onde cada número é a soma dos dois anteriores, começando com 0 e 1. O código inicializa duas variáveis, a e b, com os dois primeiros números da sequência de Fibonacci, e então entra em um loop while que continua até que a seja maior que o número máximo (max) fornecido pelo usuário. Dentro do loop, se a for igual ao número fornecido pelo usuário, a variável teste é definida como true e o loop é interrompido. Após o loop, o código verifica o valor de teste para determinar se o número pertence à sequência de Fibonacci e imprime uma mensagem apropriada. Finalmente, o Scanner é fechado para liberar recursos.</p>
-</br>
+
 ---
 <img width="25" height="25" src="https://img.icons8.com/fluency/48/test--v1.png" alt="test--v1"/> TESTE 3
 --
