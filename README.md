@@ -98,5 +98,6 @@
 <p>No console será exibida a palavra já invertida </p>
 <img src = "https://github.com/olucasgon/Est-gioRibeir-oPreto-2024/blob/main/prints-para-o-readme-explica%C3%A7%C3%B5es/Teste5/PrintConsole5.3.png?raw=true">
 
-
+<h3>- Explicação</h3>
+<p>Este código em Java é um exemplo simples de como ler uma string do usuário e inverter a ordem dos caracteres dessa string. A string inserida pelo usuário é lida usando sc.nextLine() e armazenada na variável text.Uma nova string vazia chamada invert é inicializada para armazenar a string invertida. O programa então entra em um loop for que começa com i igual ao último índice da string text (ou seja, text.length() - 1) e decrementa i a cada iteração até que i seja igual a 0. Dentro do loop, o caractere na posição i da string text é adicionado ao início da string invert usando o operador +=. Isso efetivamente inverte a ordem dos caracteres na string.Após o loop, a string invertida é impressa no console.
 ---
